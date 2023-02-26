@@ -10,9 +10,6 @@ import socket
 import time
 import struct
 from random import randint
-import threading
-import queue
-import json
 from Sockets import SendSocket, ReceiveSocket
 
 # Make changes to the frame before encoding and sending

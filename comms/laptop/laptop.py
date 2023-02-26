@@ -12,9 +12,6 @@ CAM_GREYSCALE = False
 
 # Import modules
 from base64 import encode
-import pygame
-import datetime
-import marstime
 import struct
 import socket
 import json
